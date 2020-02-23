@@ -12,6 +12,7 @@
 #include<queue>
 #include<time.h>
 
+
 using namespace std;
 
 int Strcmpi(const char* str1, const char* str2);

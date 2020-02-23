@@ -1,5 +1,6 @@
 #include"Header.h"
 
+// Compares two string ignoring the case of letters
 int Strcmpi(const char* str1, const char* str2){
     uint32_t i;
      
